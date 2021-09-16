@@ -5,3 +5,5 @@
 - 📫 Contáctame **die.idonosov@gmail.com**
 
 - 📫 <a href = "https://drive.google.com/file/d/1C_ICXqve1N4gizazhwN9YELneNOCT3KO/view?usp=sharing">Descarga mi CV</a>
+
+- 📫 <a href = "https://dev-diegov.github.io/portafolio/">Visita mi página web personal - Portafolio</a>
