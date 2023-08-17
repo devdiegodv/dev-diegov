@@ -4,6 +4,4 @@
 
 - 📫 Contáctame **diegoidv.us@gmail.com**
 
-- 📫 <a href = "https://drive.google.com/file/d/1C_ICXqve1N4gizazhwN9YELneNOCT3KO/view?usp=sharing">Descarga mi CV</a>
-
-- 📫 <a href = "https://dev-diegov.github.io/portafolio/">Visita mi página web personal - Portafolio</a>
+- 📫 <a href = "https://drive.google.com/file/d/1nT7xbYLX-_LazZbeMYi0xsQFfPMLyDWf/view?usp=sharing">Descarga mi CV</a>
