@@ -21,12 +21,11 @@ A lo largo de mis dos años de experiencia en el campo de la programación, he t
 | Tecnología | Logo |
 |------------|------|
 | Python     |   <div align="center"><img src="https://img.freepik.com/free-icon/snakes_318-368381.jpg" height="100"/></div>
-| Django     | ![Django](https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png =100x100) |
-| FastAPI    | ![FastAPI](https://cdn.worldvectorlogo.com/logos/fastapi.svg =100x100) |
-| Flask      | ![Flask](https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png =100x100) |
+| Django     |   <div align="center"><img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" height="100"/></div> |
+| FastAPI    |   <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="100"/></div> |
+| Flask      |   <div align="center"><img src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" height="100"/></div>|
 
 </div>
-
 
 - 📫 Contáctame **diegoidv.us@gmail.com**
 
