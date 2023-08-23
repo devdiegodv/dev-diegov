@@ -12,7 +12,7 @@
 padding-left: px;
 font-size: 2vmax;"><span style="color: green;">dev-diegov: </span>Some of the programming languages ​​and frameworks i have learned</p>
     <div align="center">
-      <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" height="100">
+      <img src="https://img.freepik.com/free-icon/snakes_318-368381.jpg" height="100">
       <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" height="100">
       <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="100">
     </div>
