@@ -10,9 +10,9 @@
 <p align="center" style="color: white;
                   font-family: Source Code Pro;
 padding-left: px;
-font-size: 2vmax;"><span style="color: green;">dev-diegov: </span>Some of the programming languages ​​and frameworks i have learned _</p>
+font-size: 2vmax;"><span style="color: green;">dev-diegov: </span>Some of the programming languages ​​and frameworks i have learned</p>
     <div align="center">
-      <img src="https://lenguajejs.com/assets/logo.svg" height="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" height="100">
-      <img src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" height="100">
+      <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" height="100">
+      <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" height="100">
+      <img src="https://blog.electroica.com/content/images/size/w1200/wordpress/2020/10/Fastapi.jpg" height="100">
     </div>
