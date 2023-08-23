@@ -9,25 +9,30 @@ Hola ✌, yo soy Diego Donoso, soy titulado en Técnico Analista Programador, y 
 <h2 align="center" style="color: white;">🖥️ Habilidades</h2>
 <div align="center">
   <h4 align="center">A lo largo de mis 2 años de experiencia en el campo de la programación, he tenido el privilegio de trabajar con una variedad de tecnologías, lenguajes de programación y frameworks que han enriquecido mi conjunto de habilidades y ampliado mi comprensión del desarrollo de software.</h4>
-  <div align="center">
-    <h3 align="center">Python</h3>
-    <img src="https://img.freepik.com/free-icon/snakes_318-368381.jpg" height="100"/>
-  </div>
-  <div align="center">
-    <h3 align="center">Django</h3>
-    <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" height="100"/>
-  </div>
-  <div align="center">
-    <h3 align="center">FastAPI</h3>
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="100"/>
-  </div>
-  <div align="center">
-    <h3 align="center">Flask</h3>
-    <img src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" height="100"/>
+</div>
+
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <div>
+      <h3 align="center">Python</h3>
+      <img src="https://img.freepik.com/free-icon/snakes_318-368381.jpg" height="100"/>
+    </div>
+    <div>
+      <h3 align="center">Django</h3>
+      <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" height="100"/>
+    </div>
+    <div>
+      <h3 align="center">FastAPI</h3>
+      <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="100"/>
+    </div>
+    <div>
+      <h3 align="center">Flask</h3>
+      <img src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" height="100"/>
+    </div>
   </div>
 </div>
 
 <div align="center">
   <h4 align="center">📫 Contáctame <a href="mailto:diegoidv.us@gmail.com">diegoidv.us@gmail.com</a></h4>
-  <h4 align="center"><a href="https://drive.google.com/file/d/1nT7xbYLX-_LazZbeMYi0xsQFfPMLyDWf/view?usp=sharing">Descarga mi CV</a></h4>
+  <h4 align="center">📫<a href="https://drive.google.com/file/d/1nT7xbYLX-_LazZbeMYi0xsQFfPMLyDWf/view?usp=sharing">Descarga mi CV</a></h4>
 </div>
