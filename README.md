@@ -14,5 +14,11 @@ font-size: 2vmax;"><span style="color: green;">dev-diegov: </span>Some of the pr
     <div align="center">
       <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" height="100">
       <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" height="100">
-      <img src="https://blog.electroica.com/content/images/size/w1200/wordpress/2020/10/Fastapi.jpg" height="100" style="border: 20">
+      <img src="https://blog.electroica.com/content/images/size/w1200/wordpress/2020/10/Fastapi.jpg" height="100" style="background-color:#fff;
+    border:1px solid red;    
+    height:100px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:100px;">
     </div>
