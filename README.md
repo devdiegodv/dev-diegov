@@ -4,8 +4,8 @@
 <p>Hola ✌, yo soy Diego Donoso, egresado en Técnico Analista Programador desde DUOC UC. Tengo 24 años, soy Chileno viviendo actualmente en Santiago. Me inicié en la programación a finales de 2011 con un lenguaje de programación llamado Pawn (lenguaje usado para programar modo de juegos en el juego GTA San Andreas en línea). Tengo conocimientos básicos en backend y frontend. Me gusta el diseño de los sistemas e interfaces web, el minimalismo, aprender cosas nuevos y afrontar los nuevos retos. Mis mayores pasatiempos son los videojuegos y programar.</p>
 
 <h2 align="center" style="color: white;">🖥️ Habilidades</h2>
-<h6 align="center">
-A lo largo de mis 2 años de experiencia en el campo de la programación, he tenido el privilegio de trabajar con una variedad de tecnologías, lenguajes de programación y frameworks que han enriquecido mi conjunto de habilidades y ampliado mi comprensión del desarrollo de software. A continuación, presento un listado de algunas de estas herramientas con las que he tenido la oportunidad de trabajar:</h6>
+<h5 align="center">
+A lo largo de mis 2 años de experiencia en el campo de la programación, he tenido el privilegio de trabajar con una variedad de tecnologías, lenguajes de programación y frameworks que han enriquecido mi conjunto de habilidades y ampliado mi comprensión del desarrollo de software. A continuación, presento un listado de algunas de estas herramientas con las que he tenido la oportunidad de trabajar:</h5>
 
 <div align="center">
 
