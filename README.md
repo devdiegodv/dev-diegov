@@ -12,7 +12,12 @@
 padding-left: px;
 font-size: 2vmax;"><span style="color: green;">dev-diegov: </span>Some of the programming languages ​​and frameworks i have learned</p>
     <div align="center">
+      <p>Python</p>
       <img src="https://img.freepik.com/free-icon/snakes_318-368381.jpg" height="100">
+      <p>Django</p>
       <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" height="100">
+      <p>FastAPI</p>
       <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="100">
+      <p>Flask</p>
+      <img src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" height="100">
     </div>
