@@ -11,6 +11,54 @@ Hola ✌, yo soy Diego Donoso, soy titulado en Técnico Analista Programador, y 
   <h4 align="center">A lo largo de mis 2 años de experiencia en el campo de la programación, he tenido el privilegio de trabajar con una variedad de tecnologías, lenguajes de programación y frameworks que han enriquecido mi conjunto de habilidades y ampliado mi comprensión del desarrollo de software.</h4>
 </div>
 
+<div style="display: inline-block;
+    margin: 0 5px;
+    text-align: center;
+    vertical-align: top;
+    width: 140px;">
+    <img alt="Lorem ipsum" src="http://placehold.it/140x200" width="140" height="200" />
+    <p style="    font-size: small;
+    margin: 0 0 5px;">
+        Picture Caption<br />
+        Second Line
+    </p>
+</div>
+<div class="figure">
+    <img alt="Lorem ipsum" src="http://placehold.it/140x200" width="140" height="200" />
+    <p style="    font-size: small;
+    margin: 0 0 5px;">
+</div>
+<div class="figure">
+    <img alt="Lorem ipsum" src="http://placehold.it/140x200" width="140" height="200" />
+    <p style="    font-size: small;
+    margin: 0 0 5px;">
+</div>
+<div class="figure">
+    <img alt="Lorem ipsum" src="http://placehold.it/140x200" width="140" height="200" />
+    <p style="    font-size: small;
+    margin: 0 0 5px;">
+</div>
+<div class="figure">
+    <img alt="Lorem ipsum" src="http://placehold.it/140x200" width="140" height="200" />
+    <p style="    font-size: small;
+    margin: 0 0 5px;">
+</div>
+<div class="figure">
+    <img alt="Lorem ipsum" src="http://placehold.it/140x200" width="140" height="200" />
+    <p style="    font-size: small;
+    margin: 0 0 5px;">
+</div>
+<div class="figure">
+    <img alt="Lorem ipsum" src="http://placehold.it/140x200" width="140" height="200" />
+    <p style="    font-size: small;
+    margin: 0 0 5px;">
+</div>
+<div class="figure">
+    <img alt="Lorem ipsum" src="http://placehold.it/140x200" width="140" height="200" />
+    <p style="    font-size: small;
+    margin: 0 0 5px;">
+</div>
+
 <div align="center" style="display: inline">
   <div style="display: flex; justify-content: center; align-items: center;">
     <div>
