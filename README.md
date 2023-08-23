@@ -5,3 +5,14 @@
 - 📫 Contáctame **diegoidv.us@gmail.com**
 
 - 📫 <a href = "https://drive.google.com/file/d/1nT7xbYLX-_LazZbeMYi0xsQFfPMLyDWf/view?usp=sharing">Descarga mi CV</a>
+
+<h2 align="center" style="color: white;">🖥️ Skills</h2>
+<p align="center" style="color: white;
+                  font-family: Source Code Pro;
+padding-left: px;
+font-size: 2vmax;"><span style="color: green;">dev-diegov: </span>Some of the programming languages ​​and frameworks i have learned _</p>
+    <div align="center">
+      <img src="https://lenguajejs.com/assets/logo.svg" height="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" height="100">
+      <img src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" height="100">
+    </div>
