@@ -11,7 +11,7 @@ Hola ✌, yo soy Diego Donoso, soy titulado en Técnico Analista Programador, y 
   <h4 align="center">A lo largo de mis 2 años de experiencia en el campo de la programación, he tenido el privilegio de trabajar con una variedad de tecnologías, lenguajes de programación y frameworks que han enriquecido mi conjunto de habilidades y ampliado mi comprensión del desarrollo de software.</h4>
 </div>
 
-<div align="center">
+<div align="center" style="display: inline">
   <div style="display: flex; justify-content: center; align-items: center;">
     <div>
       <h3 align="center">Python</h3>
