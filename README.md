@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
+<style="
   .container {
     display: flex;
     flex-direction: row;
@@ -23,7 +23,7 @@
   .item img {
     height: 100px;
   }
-</style>
+>
 </head>
 <body>
 <h1 align="center">Hola 👋, Yo soy Diego Donoso</h1>
